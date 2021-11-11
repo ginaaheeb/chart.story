@@ -29,13 +29,15 @@ html, body {
     margin: 0 auto;
     text-align: center;
     font-family: arial;
+    padding: 10px;
   
 }
 
-image { 
+.photo {
 
-    height: 50%;
-    width: 50%;
+max-width:1200px;
+padding:0;
+
 }
 
 /*********************************************************************
