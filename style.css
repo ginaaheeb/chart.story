@@ -27,9 +27,15 @@ html, body {
 .container {
     max-width:800px;
     margin: 0 auto;
-    text-align:center;
-    font-family:arial;
+    text-align: center;
+    font-family: arial;
   
+}
+
+image { 
+
+    height: 50%;
+    width: 50%;
 }
 
 /*********************************************************************
@@ -39,6 +45,7 @@ html, body {
     /* Any adjustments for tablets and larger go here.
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
 }
+
 
 /*********************************************************************
   YOUR DESKTOP-ONLY STYLES GO HERE
